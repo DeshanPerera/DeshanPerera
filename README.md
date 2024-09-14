@@ -7,9 +7,6 @@ My main research focus is on within-host evolution and pathogen genomics. Recent
 
 ---
 
-- 🔭 I’m currently developing high-performance computational solutions to population genetic problems.
-- 🌱 I’m currently learning evolution and population genetics.
-
 ### ⚡ Skills
 - Languages: `CUDA`, `C`, `C++`, `Java`
 - Tools & Technologies: `Anaconda`, `Docker`, `TensorFlow`
