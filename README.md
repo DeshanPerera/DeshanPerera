@@ -7,7 +7,7 @@ I am currently a Ph.D. (specialization in Bioinformatics) Candidate in the Depar
 - 🌱 I’m currently learning evolution and population genetics.
 
 ### ⚡ Skills
-- Languages: `CUDA`, `C`, `C++`, `Java'
+- Languages: `CUDA`, `C`, `C++`, `Java`
 - Tools & Technologies: `Anaconda`, `Docker`, `TensorFlow`
 
 ### 📫 How to reach me:
