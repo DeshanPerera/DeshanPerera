@@ -14,3 +14,8 @@ My main research focus is on within-host evolution and pathogen genomics. Recent
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/deshan-perera-77181093/)
 - [Email](mailto:duwagedahampriyabala@ucalgary.ca)
+
+### 🚀 Notable repos
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=theLongLab&repo=CATE&show_icons=true&theme=dark)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=theLongLab&repo=TransCOVID&show_icons=true&theme=dark)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=theLongLab&repo=Transmission_Analyzer&show_icons=true&theme=dark)
