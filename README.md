@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi! My name is [Deshan Perera](https://sites.google.com/view/deshanperera)
 
-<!--
-**DeshanPerera/DeshanPerera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I am currently a Ph.D. (specialization in Bioinformatics) Candidate in the Department of Biochemistry and Molecular Biology, Cumming School of Medicine at the University of Calgary, Canada. My Ph.D. supervisor is Prof. Quan Long. My main research focus is on within-host evolution and pathogen genomics. Recently, my focus has expanded into within host evolution of cancer.  My areas of expertise lie in understanding evolutionary dynamics within organisms and developing high-performance computational solutions to analyze these problems.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently developing high-performance computational solutions to population genetic problems.
+- 🌱 I’m currently learning evolution and population genetics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Skills
+- Languages: `CUDA`, `C`, `C++`, `Java'
+- Tools & Technologies: `Anaconda`, `Docker`, `TensorFlow`
+
+### 📫 How to reach me:
+- [LinkedIn](www.linkedin.com/in/deshan-perera-77181093)
+- [Email](mailto:duwagedahampriyabala@ucalgary.ca)
