@@ -15,5 +15,5 @@ My main research focus is on within-host evolution and pathogen genomics. Recent
 - Tools & Technologies: `Anaconda`, `Docker`, `TensorFlow`
 
 ### 📫 How to reach me:
-- [LinkedIn](www.linkedin.com/in/deshan-perera-77181093)
+- [LinkedIn](https://www.linkedin.com/in/deshan-perera-77181093/)
 - [Email](mailto:duwagedahampriyabala@ucalgary.ca)
