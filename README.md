@@ -22,6 +22,6 @@ My main research focus is on within-host evolution and pathogen genomics. Recent
 
 If you find the following repos useful in your work on evolutionary studies feel free to leave a :star: star and cite them in your publications.
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=theLongLab&repo=CATE&show_icons=true&theme=dark)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=theLongLab&repo=TransCOVID&show_icons=true&theme=dark)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=theLongLab&repo=Transmission_Analyzer&show_icons=true&theme=dark)
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=theLongLab&repo=CATE&show_icons=true&theme=dark)](https://github.com/theLongLab/CATE)
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=theLongLab&repo=TransCOVID&show_icons=true&theme=dark)](https://github.com/theLongLab/TransCOVID)
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=theLongLab&repo=Transmission_Analyzer&show_icons=true&theme=dark)](https://github.com/theLongLab/Transmission_Analyze)
