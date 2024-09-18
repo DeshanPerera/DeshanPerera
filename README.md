@@ -24,4 +24,4 @@ If you find the following repos useful in your work on evolutionary studies feel
 
 [![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=theLongLab&repo=CATE&show_icons=true&theme=dark)](https://github.com/theLongLab/CATE)
 [![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=theLongLab&repo=TransCOVID&show_icons=true&theme=dark)](https://github.com/theLongLab/TransCOVID)
-[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=theLongLab&repo=Transmission_Analyzer&show_icons=true&theme=dark)](https://github.com/theLongLab/Transmission_Analyze)
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=theLongLab&repo=Transmission_Analyzer&show_icons=true&theme=dark)](https://github.com/theLongLab/Transmission_Analyzer)
