@@ -14,7 +14,7 @@ My main research focus is on within-host evolution and pathogen genomics. Recent
 ### :artificial_satellite: Personal website
  - For more information on what I am working on please visit my [webpage](https://sites.google.com/view/deshanperera).
 
-### :bellhop_bell: How to reach me:
+### :bellhop_bell: How to reach me
 - [LinkedIn](https://www.linkedin.com/in/deshan-perera-77181093/)
 - [Email](mailto:duwagedahampriyabala@ucalgary.ca)
 
