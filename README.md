@@ -18,7 +18,7 @@ My areas of expertise include understanding evolutionary dynamics within organis
 
 ### :bellhop_bell: How to reach me
 - [LinkedIn](https://www.linkedin.com/in/deshanphd)
-- [Email](mailto:duwagedahampriyabala@ucalgary.ca)
+- [Email](mailto:deshan@stanford.edu)
 
 ### :star: Notable repos
 
