@@ -1,9 +1,11 @@
 ## Hi! My name is [Deshan Perera](https://sites.google.com/view/deshanperera)
 
 ---
-I am a doctoral researcher (specialization in Bioinformatics) at the Department of Biochemistry and Molecular Biology, Cumming School of Medicine at the University of Calgary, Canada supervised by Prof. Quan Long. 
+I am currently a postdoctoral scholar in the Fraser lab at Stanford University. 
 
-My main research focus is on within-host evolution and pathogen genomics. Recently, my focus has expanded into the within-host evolution of cancer. My areas of expertise lie in understanding evolutionary dynamics within organisms and developing high-performance computational solutions to analyze these problems.
+I obtained my Ph.D. (specializing in Bioinformatics) from the Department of Biochemistry and Molecular Biology, Cumming School of Medicine, University of Calgary, Canada, while under the supervision of Prof. Quan Long. 
+
+My areas of expertise include understanding evolutionary dynamics within organisms and developing high-performance computational solutions to analyze these complex problems.
 
 ---
 
