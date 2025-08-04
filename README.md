@@ -1,7 +1,7 @@
 ## Hi! My name is [Deshan Perera](https://sites.google.com/view/deshanperera)
 
 ---
-I am currently a postdoctoral scholar in the Fraser lab at Stanford University. 
+I am currently a postdoctoral scholar in Prof. Hunter Fraser’s lab at Stanford University.
 
 I obtained my Ph.D. (specializing in Bioinformatics) from the Department of Biochemistry and Molecular Biology, Cumming School of Medicine, University of Calgary, Canada, while under the supervision of Prof. Quan Long. 
 
