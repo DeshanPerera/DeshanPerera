@@ -1,11 +1,11 @@
 ## Hi! My name is [Deshan Perera](https://sites.google.com/view/deshanperera)
 
 ---
-I am currently a postdoctoral scholar in Prof. Hunter Fraser’s lab at Stanford University.
+I am currently a postdoctoral scholar in Prof. Hunter Fraser's lab at Stanford University.
 
-I obtained my Ph.D. (specializing in Bioinformatics) from the Department of Biochemistry and Molecular Biology, Cumming School of Medicine, University of Calgary, Canada, while under the supervision of Prof. Quan Long. 
+I obtained my Ph.D. in Bioinformatics from the Department of Biochemistry and Molecular Biology, Cumming School of Medicine, University of Calgary, Canada, under the supervision of Prof. Quan Long. Prior to this, I earned a First-Class B.Sc. (Hons) in Biology from the University of Sri Jayewardenepura, Sri Lanka, under the supervision of Dr. Dinithi Peiris.
 
-My areas of expertise include understanding evolutionary dynamics within organisms and developing high-performance computational solutions to analyze these complex problems.
+My research focuses on understanding evolutionary dynamics within organisms and across species, while developing high-performance, scalable computational solutions for complex biological problems.
 
 ---
 
